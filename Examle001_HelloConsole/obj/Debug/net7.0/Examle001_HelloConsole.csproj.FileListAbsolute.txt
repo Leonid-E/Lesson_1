@@ -1,0 +1,15 @@
+/Users/leonidercenko/Examples/Examle001_HelloConsole/bin/Debug/net7.0/Examle001_HelloConsole
+/Users/leonidercenko/Examples/Examle001_HelloConsole/bin/Debug/net7.0/Examle001_HelloConsole.deps.json
+/Users/leonidercenko/Examples/Examle001_HelloConsole/bin/Debug/net7.0/Examle001_HelloConsole.runtimeconfig.json
+/Users/leonidercenko/Examples/Examle001_HelloConsole/bin/Debug/net7.0/Examle001_HelloConsole.dll
+/Users/leonidercenko/Examples/Examle001_HelloConsole/bin/Debug/net7.0/Examle001_HelloConsole.pdb
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.csproj.AssemblyReference.cache
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.AssemblyInfoInputs.cache
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.AssemblyInfo.cs
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.dll
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/refint/Examle001_HelloConsole.dll
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.pdb
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/Examle001_HelloConsole.genruntimeconfig.cache
+/Users/leonidercenko/Examples/Examle001_HelloConsole/obj/Debug/net7.0/ref/Examle001_HelloConsole.dll
